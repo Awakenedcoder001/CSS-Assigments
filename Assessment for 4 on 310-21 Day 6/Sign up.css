@@ -1,0 +1,30 @@
+.hrefre{
+    margin-left: auto;
+  margin-right: auto;
+  display: block;
+  height:40px;
+width: 40px;
+}
+
+.navmeen{border-color: black; border-radius: 4px; 
+    background-color: orange; outline: thick; outline-color: black;}
+    .gogo{
+        height:40px ;width:40px;
+    }
+
+   .refref {
+        text-decoration: none; 
+        color: darkblue; 
+    }
+
+    h1{
+    text-align: center;
+    }
+
+    .f1{
+        text-align: center;
+    }
+     .f2{
+        margin-left: auto;
+        margin-right: auto;
+    }

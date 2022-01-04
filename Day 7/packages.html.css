@@ -1,0 +1,72 @@
+body{
+	background-color: #162B32;
+	color: whitesmoke;
+}
+.logo1{
+	height:50px;
+	width:50px;
+	display: block;
+	margin:auto;
+}
+.tcblogo{
+	height:500px;
+	width:100%;
+}
+.ds1{
+	background-color: Black;
+	color: gold;
+	width: 350px; 
+	height: 360px;
+}
+.div2{
+	background-color: Black;
+	color: orange;
+	width: 350px; 
+	height: 360px; 
+	float: left; 
+	 margin-left: 310px;
+	 margin-top: -360px;
+}
+.div3{
+	background-color: Black;
+	color: silver;
+	width: 350px; 
+	height: 360px; 
+	float: left;  
+	margin-left: 623px;
+	margin-top: -360px;
+}
+.div4{
+	background-color: Black;
+	color: grey;
+	width: 310px; 
+	height: 360px; 
+	float: left;  
+	margin-left: 935px;
+	margin-top: -360px;
+}
+a{
+ text-decoration: none;
+ color: yellow;
+}
+.fnav{
+	border-color: black;
+	 border-radius: 4px; 
+	 background-color: #FF4838;
+	 outline: thick; 
+	 outline-color: black;
+	 text-decoration: none; 
+	word-spacing: 05px;
+	width: 105%;
+	height: px;
+	margin: -26px;
+	position: fixed;
+	word-spacing: 20px;
+	text-align: center;
+}
+
+
+.fnava{
+	color: whitesmoke;
+	text-decoration: none;
+}

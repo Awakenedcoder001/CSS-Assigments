@@ -1,0 +1,25 @@
+.nav1{
+    border: none; 
+    background-color:#f28500;
+    color: black; 
+    padding:8px;
+     height:9px; 
+     margin:4px; 
+     text-decoration: none; 
+     font-family: monospace;
+}
+
+.home2{
+    text-decoration: none; color: black; 
+}
+.div1{
+    color:black;
+}
+.img12{
+    height:400px
+}
+.tab1{
+    
+    color:black; 
+    background-color: skyblue;
+}

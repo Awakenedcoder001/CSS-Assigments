@@ -1,0 +1,21 @@
+*{
+    background-color:rgb(255, 229, 204)
+}
+a{
+    text-decoration:none
+}
+h1{
+    marquee: scrolldelay: 60ms
+}
+.hr1{
+    background-color:black
+     height:40px
+}
+img.{
+    height: 300pxwidth: 400px
+    
+}
+p{color: red;}
+
+h3{
+color: green}

@@ -1,0 +1,73 @@
+body{
+	background-color: #162B32;
+	color: whitesmoke;
+}
+
+.logo1{
+	height: 50px;
+	width: 50px;
+}
+
+
+.fnav{
+	border-color: black;
+	 border-radius: 4px; 
+	 background-color: #FF4838;
+	 outline: thick; 
+	 outline-color: black;
+	 text-decoration: none; 
+	word-spacing: 05px;
+	width: 91%;
+	height: px;
+	margin: -10px;
+	margin-left: 107px;
+	position: fixed;
+	word-spacing: 20px;
+	text-align: center;
+}
+
+
+.fnava{
+	color: whitesmoke;
+
+}
+
+.logo2{
+	text-decoration: none; 
+	color: whitesmoke;
+	height: 400px;
+}
+
+a, .rna{
+	text-decoration: none;
+	color: whitesmoke;
+
+}
+
+.rightdiv{
+	text-align: center;
+	position: fixed	;
+		border: 2px; 
+		background-color:#FF4838;
+		 color:whitesmoke; 
+		 height: 600px; 
+		 width: 115px;
+		  margin-top: -450px; 
+		  margin-left: -05px;
+}
+.2ndnav{
+		text-decoration: none; 
+		color: whitesmoke;
+}
+.quotationofpage{
+	font-size: xx-large;
+	font-family:Monospace;
+}
+h2{
+	text-align: center;
+	color: Orange;
+}
+
+.contact{
+	height: 50px;
+}

@@ -1,0 +1,44 @@
+div{
+	color:black}
+
+body{
+	 background-color:rgba(255, 111, 97,0.2) ;
+	  color:green;"
+}
+.nav1{
+	text-align: center;
+	border: 2px solid black; 
+	background-color:#f28500;
+	color:black; 
+	 height: 20px; 
+	 margin:-20px;
+	  text-decoration:none;
+	  font-family: monospace;"
+	  text-align: center;
+	  width: 100%	;
+	  position: fixed;
+	  word-spacing: 05px;
+}
+
+a{
+	border: none; 
+	color: purple; 
+	padding:8px; 
+	height: 8px;
+	 margin:4px; text-decoration:none ; 
+	font-family: monospace;"
+}
+
+img{
+	text-align: center;
+	height: 450px;
+	width: 450px;
+}
+li{
+	text-decoration: none;
+}
+table{
+	color:black; 
+	background-color: skyblue;"
+
+}

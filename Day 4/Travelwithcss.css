@@ -1,0 +1,49 @@
+#FDIV{width: 100%;
+	text-align: center;
+		position: fixed;
+
+}
+#nav1{
+
+	background-color: #f28500;
+	color: black; 
+	height: 28px; 
+	margin:-09px; 
+	text-decoration: none; 
+	font-family: monospace
+	
+}
+
+a{
+	text-decoration: none;
+	color: black;
+	font-weight: bolder;
+
+}
+body{
+	background-color: rgba(255, 111, 97,0.2);
+	color: green
+}
+
+h1{
+	quotes: ;
+}
+
+table{
+
+	
+	style:color:black; 
+	background-color: skyblue;
+
+	
+}
+div{
+	style: color:black
+}
+#travel{
+	color: red
+}
+
+ol{
+list-style-position: inside
+}

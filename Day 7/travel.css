@@ -1,0 +1,30 @@
+body{
+    background-color: #162B32; color:whitesmoke ;"
+}
+.nav1{
+   border-color: black; 
+   border-radius: 4px; 
+   background-color: #FF4838;
+    outline: thick;
+ outline-color: black;
+}
+.logoo{
+    height:40px;
+     width:40px;
+     display:block;
+     margin:auto
+}
+
+a{
+    text-decoration: none; 
+    color: whitesmoke;
+}
+
+h2{
+    color: darkgoldenrod;
+}
+iframe{
+    width:100%;
+     height:400px;
+     border: 2px solid yellow;
+}

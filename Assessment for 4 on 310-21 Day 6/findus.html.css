@@ -1,0 +1,64 @@
+body{
+	background-color: #e3e0cf;
+}
+
+.div2{
+	text-align: center;
+	position: fixed;	
+}
+
+.nav2{
+	text-align: center;
+	border-color: black; 
+	border-radius: 4px; 
+	background-color: orange;
+	 outline: thick;
+	outline-color: black;
+	width: 100%;
+	margin: -20px;
+	height: auto;
+	position: fixed;
+	text-align: center;
+	word-spacing: 15px;
+	}
+
+.a1	{
+	color: black;
+	height: 50px;
+	width: 50px
+	padding: 5px;
+}
+.a2{
+	font-size: large;
+	text-decoration: none; 
+	color: darkblue;
+}
+
+.divdiv{
+	text-align: center;
+
+}
+h2{
+	text-align: center;
+}
+.dota2{
+	height: 400px;
+	width: 250px;
+}
+
+.log11o{
+	height:80px; width:80px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.ahref{
+	text-decoration: none; 
+	color: black;
+
+}
+a{
+	text-decoration: none; 
+	color: black;
+}

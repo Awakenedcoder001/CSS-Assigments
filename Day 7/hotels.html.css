@@ -1,0 +1,38 @@
+body{
+	background-color: #162B32;
+	color: whitesmoke;
+}
+
+.fnav{
+	border-color: black;
+	 border-radius: 4px; 
+	 background-color: #FF4838;
+	 outline: thick; 
+	 outline-color: black;
+	 text-decoration: none; 
+	word-spacing: 05px;
+	width: 105%;
+	height: px;
+	margin: -25px;
+	position: fixed;
+	word-spacing: 20px;
+	text-align: center;
+}
+.logo1{
+	display:block;
+	height:40px;
+	width:40px;
+}
+
+
+.fnava{
+	color: whitesmoke;
+	text-decoration: none;
+}
+.hotel{
+	
+}
+img{
+	height:400px;
+	width:400px;
+}

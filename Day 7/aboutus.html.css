@@ -1,0 +1,65 @@
+body{
+	background-color: #162B32;
+	color: whitesmoke;
+}
+i{
+	color:yellow
+}
+h1{
+	text-align: center;
+}
+object{
+	display: block;
+	margin: auto;
+
+}
+.viddiv{
+	margin:auto;
+}
+.fnav{
+	border-color: black;
+	 border-radius: 4px; 
+	 background-color: #FF4838;
+	 outline: thick; 
+	 outline-color: black;
+	 text-decoration: none; 
+	word-spacing: 05px;
+	width: 100%;
+	height: px;
+	margin: -20px;
+	margin-left: 0px;
+	position: fixed;
+	word-spacing: 20px;
+	text-align: center;
+}
+.logo1{
+	height: 50px ;
+	width:	50px;
+	}
+
+.fnava{
+	color: whitesmoke;
+
+}
+
+.logo2{
+	text-decoration: none; 
+	color: whitesmoke;
+	height: 400px;
+}
+
+
+.contact{
+	display: block;
+	height: 50px;
+	margin: auto;
+}
+.fnava{
+	color: whitesmoke;
+	text-decoration: none;
+
+}
+
+.img1{
+	margin: auto;
+}

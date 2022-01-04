@@ -1,0 +1,44 @@
+body{
+	background-color: #e3e0cf;
+}
+
+.div2{
+	text-align: center;
+	position: fixed;	
+}
+
+.nav2{
+	text-align: center;
+	border-color: black; 
+	border-radius: 4px; 
+	background-color: orange;
+	 outline: thick;
+	outline-color: black;
+	width: 100%;
+	margin: -20px;
+	height: auto;
+	position: fixed;
+	text-align: center;
+	word-spacing: 15px;
+	}
+
+.a1	{
+	color: black;
+	height: 50px;
+	width: 50px
+	padding: 5px;
+}
+.a2{
+	font-size: large;
+	text-decoration: none; 
+	color: darkblue;
+}
+
+a{
+	text-decoration: none;
+}
+
+hr{"height: 20px;width: 100%; background-color: black;"}
+
+
+h1{color: blue;}

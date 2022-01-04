@@ -1,0 +1,48 @@
+body{
+	background-color: #e3e0cf;
+}
+
+.div2{
+	text-align: center;
+	position: fixed;	
+}
+
+.nav2{
+	text-align: center;
+	border-color: black; 
+	border-radius: 4px; 
+	background-color: orange;
+	 outline: thick;
+	outline-color: black;
+	width: 100%;
+	margin: -10px;
+	height: auto;
+	position: fixed;
+	text-align: center;
+	word-spacing: 15px;
+	}
+
+.a1	{
+	color: black;
+	height: 40px;
+	width: 40px
+	padding: 5px;
+}
+.a2{
+	font-size: large;
+	text-decoration: none; 
+	color: darkblue;
+}
+
+.logoposition{
+	text-decoration: none;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%px;
+}
+
+
+
+
+h1{color: blue;}
